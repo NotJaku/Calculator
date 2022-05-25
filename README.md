@@ -1,5 +1,5 @@
 # Calculator
-Basic Calculator app made in C#
+*Basic Calculator app made in C#*
  
 <h3>Version:</h3>
 💻 v1.0
@@ -13,4 +13,5 @@ Basic Calculator app made in C#
 
 4th step: Run application
 
+```
 🗨 If you have question you can write on this e-mail - jamessdev08@outlook.com
